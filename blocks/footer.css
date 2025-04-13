@@ -1,14 +1,15 @@
 .footer {
   width: 104px;
   height: 60px;
-  font: "poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
-  size: 16px;
+  font-size: 16px;
   line-height: 100%;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   display: flex;
   align-items: center;
   margin: 0 auto;
-  opacity: 70;
+  opacity: 0.7;
   color: #212121;
+  width: fit-content;
 }
