@@ -1,0 +1,14 @@
+.footer {
+  width: 104px;
+  height: 60px;
+  font: "poppins";
+  font-weight: 400;
+  size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  opacity: 70;
+  color: #212121;
+}
