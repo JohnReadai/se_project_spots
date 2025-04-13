@@ -16,4 +16,4 @@ Spots is an interactive social media web application that allows users to create
 
 This webapge is deployed to GitHub Pages
 
-- [Deployment Link] (https://reagansjohnson.github.io/...)
+- [Deployment Link] (https://JohnReadai.github.io/se_project_spots)

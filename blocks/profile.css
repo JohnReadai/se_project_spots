@@ -56,6 +56,11 @@
   border: none;
 }
 
+.profile__edit-btn:hover {
+  opacity: 100%;
+  cursor: url(../images/pointer.svg) 18 22, pointer;
+}
+
 .profile__pencil-btn {
   color: #212121;
 }
@@ -74,6 +79,11 @@
   border-radius: 8px;
   width: 149px;
   height: 52px;
+}
+
+.profile__add-btn:hover {
+  opacity: 20%;
+  cursor: url(../images/pointer.svg) 18 22, pointer;
 }
 
 .profile__add-icon {
