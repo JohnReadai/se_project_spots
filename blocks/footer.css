@@ -6,6 +6,7 @@
   opacity: 0.7;
   color: #212121;
   width: fit-content;
+  padding: 60px 0;
 }
 
 .footer__copyright {
@@ -13,4 +14,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 100%;
+  color: #212121b2;
+  margin: 0;
 }
