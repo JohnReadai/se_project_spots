@@ -22,7 +22,9 @@ Spots is an interactive social media web application that allows users to create
 
 ## Video
 
-- [Background Video Explaining Project] (https://drive.google.com/file/d/13ExLkD9btk0qgxWMOteV2UagrmESlB8M/view?usp=drive_link)
+
+- <a href="https://drive.google.com/file/d/13ExLkD9btk0qgxWMOteV2UagrmESlB8M/view?usp=drive_link" target="_blank">Background Video Explaining Project</a>
+
 
 ## Deployment
 
