@@ -1,6 +1,6 @@
 # Spots
 
-interactive social media web application
+Interactive social media web application
 
 ## Description
 
