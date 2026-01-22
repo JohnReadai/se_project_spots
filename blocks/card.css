@@ -1,0 +1,54 @@
+.card__image {
+  height: 413px;
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+
+.card__title {
+  font-family: "poppins";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 355px;
+  color: #212121;
+  margin: 0;
+}
+
+.card__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  margin: 12px 0 0;
+}
+
+.card__like-button {
+  width: 23px;
+  height: 20px;
+  border: none;
+  background-color: transparent;
+  opacity: 40%;
+  background: url(../images/heart-icon.svg) center / contain no-repeat;
+}
+
+.card__like-button:hover {
+  opacity: 100%;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 627px) {
+  .card__image {
+    height: 288px;
+  }
+
+  .card__title {
+    max-width: 250px;
+    font-size: 16px;
+    line-height: 100%;
+  }
+}
