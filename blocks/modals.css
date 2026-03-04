@@ -43,6 +43,12 @@
   border: none;
 }
 
+.modal__close-button:hover {
+  color: #212121;
+  opacity: 100%;
+  cursor: pointer;
+}
+
 .modal__form {
   display: flex;
   flex-direction: column;
