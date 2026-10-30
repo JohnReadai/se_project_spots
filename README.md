@@ -22,12 +22,10 @@ Spots is an interactive social media web application that allows users to create
 
 ## Video
 
-
 - [Background Video Explaining Project] (https://drive.google.com/file/d/13ExLkD9btk0qgxWMOteV2UagrmESlB8M/view?usp=drive_link)
-
 
 ## Deployment
 
 This webapge is deployed to GitHub Pages
 
-- [Deployment Link] (https://JohnReadai.github.io/se_project_spots)
+- [Deployment Link](https://JohnReadai.github.io/se_project_spots)
