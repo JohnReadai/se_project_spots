@@ -65,6 +65,8 @@ function handleAddCardSubmit(evt) {
   console.log(linkInput.value);
   console.log(captionInput.value);
 
+  addCardFormElement.reset();
+
   closeModal(newPostModal);
 }
 

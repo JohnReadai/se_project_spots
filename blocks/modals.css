@@ -25,9 +25,9 @@
 .modal__container {
   max-width: 730px;
   width: 100%;
-  border-radius: 8px;
+  border-radius: 10px;
   background-color: #fff;
-  padding: 32px 50px;
+  padding: 36px 50px 32px;
   position: relative;
   box-sizing: border-box;
 }
@@ -80,8 +80,11 @@
 }
 
 .modal__input {
+  border: 1px solid rgba(33, 33, 33, 0.4);
+  font-size: 20px;
+  line-height: 1;
   display: block;
-  margin: 8px 0 0;
+  margin: 8px 0 32px;
   padding: 16px 12px;
   color: #212121;
   border-radius: 8px;
@@ -99,6 +102,9 @@
 }
 
 .modal__submit-button {
+  width: 100%;
+  border: none;
+  padding: 0;
   max-width: 156px;
   border-radius: 8px;
   background-color: #212121;
@@ -114,6 +120,13 @@
 @media screen and (max-width: 627px) {
   .modal__title {
     font-size: 20px;
+  }
+  .modal__container {
+    padding: 22px 12px 12px;
+  }
+  .modal__close-button {
+    top: 22px;
+    right: 12px;
   }
 
   .modal__input::placeholder {
